@@ -1,6 +1,7 @@
 # 🧠 Memorix 📱
 
 **Grupo**: 💻 Código Morto 🧟
+
 **Desenvolvedores:**
 - Gabriela Araujo Rodrigues - 2400466
 - Rafaela Wohlers Rodrigues - 2404142
